@@ -30,7 +30,7 @@ const notifications = [
 </script>
 
 <template>
-  <Card :class="cn(' ml-4 w-[380px] h-[600px]', $attrs.class ?? '')">
+  <Card :class="cn(' ml-4 w-[28%] h-[87vh]', $attrs.class ?? '')">
     <CardHeader>
       <CardTitle>Notifications</CardTitle>
       <CardDescription>You have 3 unread messages.</CardDescription>

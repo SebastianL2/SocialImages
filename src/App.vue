@@ -4,6 +4,7 @@ import HeaderTopBar from './components/header/HeaderTopBar.vue'
 import type HomeViewVue from './views/HomeView.vue';
 import CardMenu from './components/album/cardMenu.vue'
 import CardPrincipal from './components/principal/cardPrincipal.vue'
+import Carousel from './components/ui/carousel/Carousel.vue';
 </script>
 
 <template>
